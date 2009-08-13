@@ -1,1 +1,6 @@
-I’ve written plugin implements the idea discussed by Dunstan on his personal blog about displaying the time a post was published in a friendly manner. Simply place the <txp:rsx_time_of_day /> tag in an article template form and it will print out the time in a friendlier manner. For example, 12:00 will get turned into “lunch time”. I’ve basically copied his code verbatim. You can go and change what is output by editing the switch statement.
+I've written plugin implements the idea discussed by Dunstan on his personal 
+blog about displaying the time a post was published in a friendly manner.  
+Simply place the <txp:rsx_time_of_day /> tag in an article template form and it 
+will print out the time in a friendlier manner. For example, 12:00 will get 
+turned into "lunch time". I've basically copied his code verbatim. You can go 
+and change what is output by editing the switch statement.
